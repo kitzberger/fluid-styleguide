@@ -2,4 +2,4 @@
 uriPrefix = /fluid-styleguide/
 
 # cat=general; type=string; label=Path to TypoScript: This file is being loaded for the styleguide rendering. Might contain 'lib.parseFunc_RTE' and other necessary TS objects.
-typoscriptPath =
+typoScriptPath =
